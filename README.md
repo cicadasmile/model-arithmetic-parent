@@ -5,8 +5,11 @@
 1、JAVA描述算法和数据结构(01)：稀疏数组和二维数组转换</a>
 
 ## 设计模式分类
-<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483745&idx=1&sn=da9292e4788f547ccbb94f4f89cd8c87&chksm=fdf455d9ca83dccfcd28f9a20b310ceff13f7662c2a4d58a6956cb23252e905c0c5256f177fb&token=949711998&lang=zh_CN#rd">
-1、设计模式之单例模式</a>
+<a href="">
+1、Java描述设计模式(01)：单例模式</a><br/>
+
+<a href="">
+2、Java描述设计模式(02)：简单工厂模式</a>
 
 
 # 项目简介
