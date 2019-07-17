@@ -11,6 +11,7 @@
 
     <modules>
         <module>node-model-design</module>
+        <module>node-model-algorithm</module>
     </modules>
 
     <!-- 依赖版本管理 -->
