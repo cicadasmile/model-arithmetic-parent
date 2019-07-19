@@ -5,11 +5,11 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * Spring框架中单例模式
  */
-public class S01_Singleton {
+public class SpringTest {
     @Test
     public void test01 (){
-        ApplicationContext context01 = new ClassPathXmlApplicationContext("/spring/spring-context.xml");
-        ApplicationContext context02 = new ClassPathXmlApplicationContext("/spring/spring-context.xml");
+        ApplicationContext context01 = new ClassPathXmlApplicationContext("/spring/spring-singleton.xml");
+        ApplicationContext context02 = new ClassPathXmlApplicationContext("/spring/spring-singleton.xml");
         UserBean user01 = (UserBean)context01.getBean("user") ;
         UserBean user02 = (UserBean)context01.getBean("user") ;
         UserBean user03 = (UserBean)context02.getBean("user") ;
