@@ -17,6 +17,9 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483962&idx=1&sn=3e039f5b53ad8940fcd10386b21697f8&chksm=fdf45682ca83df94d3196bfcd6c42b357bd4a812c002fd5a1ff2cbee7157d6b772b8fb46f42e&token=1459214907&lang=zh_CN#rd">
 4、Java描述设计模式(04)：抽象工厂模式</a><br/>
 
+<a href="">
+5、Java描述设计模式(05)：原型模式</a><br/>
+
 持续更新中...
 
 # 项目简介
