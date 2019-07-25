@@ -12,7 +12,10 @@
 2、Java描述设计模式(02)：简单工厂模式</a><br/>
 
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483954&idx=1&sn=4484a4c9d624c6714fc2dc79b0d43ee5&chksm=fdf4568aca83df9cd40fef6cd06614101415305b8880ce83b09150982cc24b5f1607a8746643&token=1823136575&lang=zh_CN#rd">
-3、Java描述设计模式(03)：工厂方法模式<br/>
+3、Java描述设计模式(03)：工厂方法模式</a><br/>
+
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483962&idx=1&sn=3e039f5b53ad8940fcd10386b21697f8&chksm=fdf45682ca83df94d3196bfcd6c42b357bd4a812c002fd5a1ff2cbee7157d6b772b8fb46f42e&token=1459214907&lang=zh_CN#rd">
+4、Java描述设计模式(04)：抽象工厂模式</a><br/>
 
 持续更新中...
 
