@@ -1,9 +1,5 @@
 # 参考文章
 
-## 算法结构分类
-<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483929&idx=1&sn=fdea34aea3a71ebda5ca5752763594f7&chksm=fdf456a1ca83dfb7cf1d18c8a1cfd2ebf5f0b3713d5f099b9a1057be4709e9ab5d214ac5d15e&token=1000382877&lang=zh_CN#rd">
-1、JAVA描述算法和数据结构(01)：稀疏数组和二维数组转换</a>
-
 ## 设计模式分类
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483946&idx=1&sn=ca0a5859fe0cfa917c5046b473b09ea6&chksm=fdf45692ca83df84bdbd5859420473fde1347310de0c9ee54460a2764dade16b8a89d6321146&token=1823136575&lang=zh_CN#rd">
 1、Java描述设计模式(01)：单例模式</a><br/>
@@ -17,8 +13,17 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483962&idx=1&sn=3e039f5b53ad8940fcd10386b21697f8&chksm=fdf45682ca83df94d3196bfcd6c42b357bd4a812c002fd5a1ff2cbee7157d6b772b8fb46f42e&token=1459214907&lang=zh_CN#rd">
 4、Java描述设计模式(04)：抽象工厂模式</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483973&idx=1&sn=5da7f34643a7f78486a204a298c4ef63&chksm=fdf456fdca83dfeb7a36ed372e4f9809d8662afaee5e001c3af80c491f5426c14046df564130&token=957373860&lang=zh_CN#rd">
 5、Java描述设计模式(05)：原型模式</a><br/>
+
+<a href="">
+6、Java描述设计模式(06)：建造者模式</a><br/>
+
+持续更新中...
+
+## 算法结构分类
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483929&idx=1&sn=fdea34aea3a71ebda5ca5752763594f7&chksm=fdf456a1ca83dfb7cf1d18c8a1cfd2ebf5f0b3713d5f099b9a1057be4709e9ab5d214ac5d15e&token=1000382877&lang=zh_CN#rd">
+1、JAVA描述算法和数据结构(01)：稀疏数组和二维数组转换</a>
 
 持续更新中...
 
