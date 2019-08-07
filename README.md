@@ -16,7 +16,7 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483973&idx=1&sn=5da7f34643a7f78486a204a298c4ef63&chksm=fdf456fdca83dfeb7a36ed372e4f9809d8662afaee5e001c3af80c491f5426c14046df564130&token=957373860&lang=zh_CN#rd">
 5、Java描述设计模式(05)：原型模式</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483995&idx=1&sn=89326b4352868d8e314feaf8b179631e&chksm=fdf456e3ca83dff582ada452071cb9666bc0b17f35f0473046381d54eb13c396b6abbd5fb15a&token=1873021555&lang=zh_CN#rd">
 6、Java描述设计模式(06)：建造者模式</a><br/>
 
 持续更新中...
@@ -32,7 +32,7 @@
 常用的数据结构，算法，设计模式的积累。
 
 ## 关于作者
-关注公众号：知了一笑<br/>
+【公众号：知了一笑】    【<a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a>】<br/>
 <img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
 
 ## 项目推荐
