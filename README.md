@@ -19,7 +19,7 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483995&idx=1&sn=89326b4352868d8e314feaf8b179631e&chksm=fdf456e3ca83dff582ada452071cb9666bc0b17f35f0473046381d54eb13c396b6abbd5fb15a&token=1873021555&lang=zh_CN#rd">
 6、Java描述设计模式(06)：建造者模式</a><br/>
 
-<a href="">
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484016&idx=1&sn=2b656e7eb02d62f06e40f8606feaf636&chksm=fdf456c8ca83dfde8f6dfdf4407529df7c4f0ff3b4b0b941fda4d19e91d40b32a7b885263d9a&token=212181417&lang=zh_CN#rd">
 7、Java描述设计模式(07)：适配器模式</a><br/>
 
 持续更新中...
