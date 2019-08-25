@@ -22,6 +22,9 @@
 <a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484016&idx=1&sn=2b656e7eb02d62f06e40f8606feaf636&chksm=fdf456c8ca83dfde8f6dfdf4407529df7c4f0ff3b4b0b941fda4d19e91d40b32a7b885263d9a&token=212181417&lang=zh_CN#rd">
 7、Java描述设计模式(07)：适配器模式</a><br/>
 
+<a href="https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484049&idx=1&sn=952c9d07be9cf4e68aed558e3c648928&chksm=fdf45629ca83df3f6af23405dcd119d55af0eaca2340d0023ed97339e63adaf51961df1f50ca&token=1730846991&lang=zh_CN#rd">
+8、Java描述设计模式(08)：桥接模式</a><br/>
+
 持续更新中...
 
 ## 算法结构分类
