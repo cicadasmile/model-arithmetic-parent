@@ -26,8 +26,6 @@
 08、Java描述设计模式(08)：桥接模式</a><br/>
 
 [09、Java描述设计模式(09)：装饰模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484064&idx=1&sn=9def4c6807543226c049351dcb5b686a&chksm=fdf45618ca83df0e0fb4f9e21598601564952535d69471b04e878b1760234fee6102b18e7060&token=1761632241&lang=zh_CN#rd)
-<br/>
-
 [10、Java描述设计模式(10)：组合模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484074&idx=1&sn=2f8480ee8ae938b465d79ef73b688b9e&chksm=fdf45612ca83df04d79161c5c9e784c983a3951c515d2bdd4c51f900603b40f7f1193c3dbeb0&token=1531330912&lang=zh_CN#rd)
 <br/>
 
