@@ -12,6 +12,7 @@
 [09、Java描述设计模式(09)：装饰模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484064&idx=1&sn=9def4c6807543226c049351dcb5b686a&chksm=fdf45618ca83df0e0fb4f9e21598601564952535d69471b04e878b1760234fee6102b18e7060&token=1761632241&lang=zh_CN#rd)<br/>
 [10、Java描述设计模式(10)：组合模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484074&idx=1&sn=2f8480ee8ae938b465d79ef73b688b9e&chksm=fdf45612ca83df04d79161c5c9e784c983a3951c515d2bdd4c51f900603b40f7f1193c3dbeb0&token=1531330912&lang=zh_CN#rd)<br/>
 [11、Java描述设计模式(11)：观察者模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484093&idx=1&sn=517aac3573f3469200f321ffab10e8a1&chksm=fdf45605ca83df136d2a44e689b919cf4afb0d11203230b3e62c4e9453de8e0eec590f396d59&token=2021318810&lang=zh_CN#rd)<br/>
+[12、Java描述设计模式(12)：外观模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484099&idx=1&sn=6e77eeb9b0d1a4c61c8d019a8ee90275&chksm=fdf4567bca83df6da8f35993da279772fc6fc1a713541adc6a690059852f95e5afdd9f564984&token=1367437402&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
