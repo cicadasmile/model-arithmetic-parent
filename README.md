@@ -15,6 +15,7 @@
 [12、Java描述设计模式(12)：外观模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484099&idx=1&sn=6e77eeb9b0d1a4c61c8d019a8ee90275&chksm=fdf4567bca83df6da8f35993da279772fc6fc1a713541adc6a690059852f95e5afdd9f564984&token=1367437402&lang=zh_CN#rd)<br/>
 [13、Java描述设计模式(13)：迭代器模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484108&idx=1&sn=6a21ed1f8c6acda10c36fec5b0129dd8&chksm=fdf45674ca83df6255bfd6d8245ab44e6db109afdd78f0af14d696637ab510c570669138b2ac&token=1669624985&lang=zh_CN#rd)<br/>
 [14、Java描述设计模式(14)：解释器模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484146&idx=1&sn=e226ed79f8dbdb000d152225367f7d86&chksm=fdf4564aca83df5ce46f6e8f367977547381a402226a33a7de03e69c458f899ee6861cba348b&token=1152431104&lang=zh_CN#rd)<br/>
+[15、Java描述设计模式(15)：责任链模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484164&idx=1&sn=443deac64e57c65c7281cb4e84249e27&chksm=fdf457bcca83deaae6d2d146af9dd900b2409e92365ab7f9683f14822bb5cf3ab27af75fa545&token=976432780&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
