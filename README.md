@@ -18,6 +18,8 @@
 [15、Java描述设计模式(15)：责任链模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484164&idx=1&sn=443deac64e57c65c7281cb4e84249e27&chksm=fdf457bcca83deaae6d2d146af9dd900b2409e92365ab7f9683f14822bb5cf3ab27af75fa545&token=976432780&lang=zh_CN#rd)<br/>
 [16、Java描述设计模式(16)：代理模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484184&idx=1&sn=ad4621bc62e4cb5fda79c686b6af50d4&chksm=fdf457a0ca83deb6caa04a79114f089de9e1b4ce8170cb92444846999d081016bf55bd8299ac&token=1855594949&lang=zh_CN#rd)<br/>
 [17、Java描述设计模式(17)：调停者模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484236&idx=1&sn=f3078073a5fd4ffea0c1e8177326557a&chksm=fdf457f4ca83dee262a49d020f25d6df981d0a485359a3fb77e352d7bc0ed3dd14802c058430&token=1249750178&lang=zh_CN#rd)<br/>
+[18、Java描述设计模式(18)：享元模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484242&idx=1&sn=b8b52207dbe75728420ad8b9a5be4fb6&chksm=fdf457eaca83defca54fc296f2118c4590611b6e92d4f284e7d9a606753f9a6a84e4fb7984ab&token=582428657&lang=zh_CN#rd)<br/>
+[19、Java描述设计模式(19)：模板方法模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484248&idx=1&sn=028ec486284d17ab9db64da49a77b21b&chksm=fdf457e0ca83def6ddcb4639eac2d50684f25787ca94dd2d83d692d94bb9cc1a881a285fb02c&token=582428657&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
