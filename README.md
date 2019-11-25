@@ -21,6 +21,7 @@
 [18、Java描述设计模式(18)：享元模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484242&idx=1&sn=b8b52207dbe75728420ad8b9a5be4fb6&chksm=fdf457eaca83defca54fc296f2118c4590611b6e92d4f284e7d9a606753f9a6a84e4fb7984ab&token=582428657&lang=zh_CN#rd)<br/>
 [19、Java描述设计模式(19)：模板方法模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484248&idx=1&sn=028ec486284d17ab9db64da49a77b21b&chksm=fdf457e0ca83def6ddcb4639eac2d50684f25787ca94dd2d83d692d94bb9cc1a881a285fb02c&token=582428657&lang=zh_CN#rd)<br/>
 [20、Java描述设计模式(20)：命令模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484258&idx=1&sn=dba2b16442ecffe053ee63a0e8abd90a&chksm=fdf457daca83decc1755ffd1aacf4e16cd2665c96cb7f3990e55f9d95e4371894204a04fe48c&token=202436705&lang=zh_CN#rd)<br/>
+[21、Java描述设计模式(21)：状态模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484263&idx=1&sn=762fc8d709acb22401f0eaf6a5738a40&chksm=fdf457dfca83dec9208cebbc167c5aa07788ba29e9e83308f5bdcba96d56634d501dbb9f9ca1&token=202436705&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
