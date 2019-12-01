@@ -23,7 +23,8 @@
 [20、Java描述设计模式(20)：命令模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484258&idx=1&sn=dba2b16442ecffe053ee63a0e8abd90a&chksm=fdf457daca83decc1755ffd1aacf4e16cd2665c96cb7f3990e55f9d95e4371894204a04fe48c&token=202436705&lang=zh_CN#rd)<br/>
 [21、Java描述设计模式(21)：状态模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484263&idx=1&sn=762fc8d709acb22401f0eaf6a5738a40&chksm=fdf457dfca83dec9208cebbc167c5aa07788ba29e9e83308f5bdcba96d56634d501dbb9f9ca1&token=202436705&lang=zh_CN#rd)<br/>
 [22、Java描述设计模式(22)：策略模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484268&idx=1&sn=7e5d2e8069f9f55b3304ad6b2cdc32d0&chksm=fdf457d4ca83dec28fd2f2177cde1be563ee1a8034cf9554dfe6371b9a2c8436ccd20ca7f749&token=202436705&lang=zh_CN#rd)<br/>
-[23、Java描述设计模式(23)：访问者模式]()<br/>
+[23、Java描述设计模式(23)：访问者模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484274&idx=1&sn=38e7c454d467313168befbde717ff24e&chksm=fdf457caca83dedc1297a0b75ff0bdabc89260e48448659528951832a5565d774c2ff82cf636&token=1828411326&lang=zh_CN#rd)<br/>
+[24、Java描述设计模式(24)：备忘录模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484280&idx=1&sn=7a44031151784766627879dee8e8cae2&chksm=fdf457c0ca83ded6cd767c876bad695918c49ec0cb66021a03db804a462c62216049c50fc754&token=1828411326&lang=zh_CN#rd)<br/>
 
 持续更新中...
 
