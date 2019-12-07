@@ -10,7 +10,11 @@
     <packaging>pom</packaging>
 
     <modules>
+        <!-- 设计模式 -->
         <module>node-model-design</module>
+        <!-- 设计原则 -->
+        <module>node-model-principle</module>
+        <!-- 数据结构和算法 -->
         <module>node-model-algorithm</module>
     </modules>
 

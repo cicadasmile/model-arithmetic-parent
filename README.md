@@ -1,6 +1,7 @@
 ## 参考文章
 
 ## 设计模式分类
+[00、软件工程六大设计原则总结，案例演示](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484285&idx=1&sn=0f83e8e92d37607111f7a0f78afc9b8e&chksm=fdf457c5ca83ded32a39b4a29e65802e0b221de65575d22d8c6f5c22d272c2bca6ba29919efd&token=1183550347&lang=zh_CN#rd)<br/>
 [01、Java描述设计模式(01)：单例模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483946&idx=1&sn=ca0a5859fe0cfa917c5046b473b09ea6&chksm=fdf45692ca83df84bdbd5859420473fde1347310de0c9ee54460a2764dade16b8a89d6321146&token=1823136575&lang=zh_CN#rd)<br/>
 [02、Java描述设计模式(02)：简单工厂模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483946&idx=2&sn=fd8910b9a4f6fc778cd898001de293d8&chksm=fdf45692ca83df846cd0718be17a9e485e08dc1449e76aceb274c74c592c8f32f4c203032f8a&token=1823136575&lang=zh_CN#rd)<br/>
 [03、Java描述设计模式(03)：工厂方法模式](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483954&idx=1&sn=4484a4c9d624c6714fc2dc79b0d43ee5&chksm=fdf4568aca83df9cd40fef6cd06614101415305b8880ce83b09150982cc24b5f1607a8746643&token=1823136575&lang=zh_CN#rd)<br/>
