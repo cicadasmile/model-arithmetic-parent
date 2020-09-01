@@ -3,7 +3,7 @@
 ## 设计模式分类
 |序号|文章标题|
 |:---:|:---|
-|00|[软件工程六大设计原则总结，案例演示](https://mp.weixin.qq.com/s/P6UAH9Hrbg1Zng2Y26FvHA)|
+|00|[六大设计原则总结，案例演示](https://mp.weixin.qq.com/s/P6UAH9Hrbg1Zng2Y26FvHA)|
 |01|[Java描述设计模式：单例模式](https://mp.weixin.qq.com/s/Ry6LZ_18oua5gruTfsaW0A)|
 |02|[Java描述设计模式：简单工厂模式](https://mp.weixin.qq.com/s/WV-YzwfRhxd_SYj2MuruXQ)|
 |03|[Java描述设计模式：工厂方法模式](https://mp.weixin.qq.com/s/rvu939X8hganV2qhoyyxTg)|
@@ -33,7 +33,7 @@
 
 |序号|文章标题|
 |:---:|:---|
-|01|[JAVA描述算法和结构：稀疏数组和二维数组转换](https://mp.weixin.qq.com/s/KJFZTnbFBdm1HHNKql_KsA)|
+|01|[算法与结构：稀疏数组和二维数组转换](https://mp.weixin.qq.com/s/KJFZTnbFBdm1HHNKql_KsA)|
 |02|[算法应用：RSA算法，加密解密，签名验签流程详解](https://mp.weixin.qq.com/s/GNxbnkuPFXSvDrLODU8kVg)|
 |03|[算法应用：递归算法，处理树形结构下的业务数据](https://mp.weixin.qq.com/s/KSTHZ3YAe5HxBoM-CbFe9A)|
 

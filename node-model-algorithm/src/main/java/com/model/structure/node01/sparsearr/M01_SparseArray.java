@@ -1,4 +1,4 @@
-package com.model.structure.node01;
+package com.model.structure.node01.sparsearr;
 
 public class M01_SparseArray {
     public static void main(String[] args) {
