@@ -33,9 +33,15 @@
 
 |序号|文章标题|
 |:---:|:---|
-|01|[算法与结构：稀疏数组和二维数组转换](https://mp.weixin.qq.com/s/KJFZTnbFBdm1HHNKql_KsA)|
-|02|[算法应用：RSA算法，加密解密，签名验签流程详解](https://mp.weixin.qq.com/s/GNxbnkuPFXSvDrLODU8kVg)|
-|03|[算法应用：递归算法，处理树形结构下的业务数据](https://mp.weixin.qq.com/s/KSTHZ3YAe5HxBoM-CbFe9A)|
+|01|[结构与算法：稀疏数组和二维数组转换](https://mp.weixin.qq.com/s/KJFZTnbFBdm1HHNKql_KsA)|
+|02|[结构与算法：队列和栈结构](https://mp.weixin.qq.com/s/-P48jr-0RUtUelbZjaDlNg)|
+
+## 算法结构应用
+
+|序号|文章标题|
+|:---:|:---|
+|01|[算法应用：RSA算法，加密解密，签名验签流程详解](https://mp.weixin.qq.com/s/GNxbnkuPFXSvDrLODU8kVg)|
+|02|[算法应用：递归算法，处理树形结构下的业务数据](https://mp.weixin.qq.com/s/KSTHZ3YAe5HxBoM-CbFe9A)|
 
 持续更新中...
 
