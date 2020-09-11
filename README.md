@@ -1,6 +1,7 @@
 ## 参考文章
 
-## 设计模式分类
+## 设计模式
+
 |序号|文章标题|
 |:---:|:---|
 |00|[六大设计原则总结，案例演示](https://mp.weixin.qq.com/s/P6UAH9Hrbg1Zng2Y26FvHA)|
@@ -29,7 +30,7 @@
 |23|[Java描述设计模式：访问者模式](https://mp.weixin.qq.com/s/etCs6BSm6ZIHucQdXrvmGQ)|
 |24|[Java描述设计模式：备忘录模式](https://mp.weixin.qq.com/s/TXC1TagrSpCWPjXh2b_kkQ)|
 
-## 算法结构分类
+## 算法结构
 
 |序号|文章标题|
 |:---:|:---|
