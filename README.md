@@ -38,6 +38,7 @@
 |02|[结构与算法：队列和栈结构](https://mp.weixin.qq.com/s/-P48jr-0RUtUelbZjaDlNg)|
 |03|[结构与算法：单向链表和双向链表](https://mp.weixin.qq.com/s/LFKkH7pKwWABD_PJAHOnoQ)|
 |04|[结构与算法：排序规则与查找算法](https://mp.weixin.qq.com/s/3nrTcEKvjQrSL8ra9MqrWQ)|
+|05|[结构与算法：二叉树与多叉树](https://mp.weixin.qq.com/s/-NDLiC8FJ36vMWJgHr5Weg)|
 
 ## 算法结构应用
 
